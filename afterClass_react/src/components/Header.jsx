@@ -5,7 +5,7 @@ import NavBar from "./NavBar";
 
 const Header = () => {
     return (
-        <div className="container-fluid bg-white sticky-top">
+        <div className="bg-white sticky-top border-bottom border-2">
             <div className="row">
                 <div className="col-md-2 text-end">
                     <Logo />

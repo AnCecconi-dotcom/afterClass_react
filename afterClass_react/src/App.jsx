@@ -1,5 +1,6 @@
 import Cards from "./components/Cards";
 import Carrousel from "./components/Carrousel";
+import Footer from "./components/Footer";
 import Header from "./components/header";
 
 const App = () => {
@@ -8,6 +9,7 @@ const App = () => {
       <Header />
       <Carrousel />
       <Cards />
+      < Footer />
     </div>
   )
 };  

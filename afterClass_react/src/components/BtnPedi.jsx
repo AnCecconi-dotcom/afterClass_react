@@ -1,6 +1,6 @@
 const BtnPedi = () => {
     return(
-        <a href="#" className="btn btn-warning ms-2">Pedí y retirá</a>
+        <a href="#" className="btn btn-warning btn-lg fs-6 fw-light ms-2 rounded ">Pedí y retirá</a>
     )
 };
 

@@ -14,9 +14,9 @@ const Cards = () => {
                     <div className="card text-center" width={18}>
                         <img src={Banner1} className="card-img-top" alt="Pileta de Cheddar" />
                         <div className="card-body m-5 py-2 px-0">
-                            <h5 className="card-title py-2 fs-2">¡Probá la Pileta de Cheddar, che!</h5>
-                            <p className="card-text py-2 fs-6">Pedí la nueva Pileta de Cheddar de McDonald's para enchufarle mucho, muchísimo cheddar a tus papitas, McNuggets y hamburguesa.</p>
-                            <a href="#" className="btn btn-warning">Chequeala acá</a>
+                            <h5 className="card-title py-2 fs-2 fw-bold">¡Probá la Pileta de Cheddar, che!</h5>
+                            <p className="card-text py-2 fs-6 fw-light">Pedí la nueva Pileta de Cheddar de McDonald's para enchufarle mucho, muchísimo cheddar a tus papitas, McNuggets y hamburguesa.</p>
+                            <a href="#" className="btn btn-warning fw-light">Chequeala acá</a>
                         </div>
                     </div>
                 </div>
@@ -24,9 +24,9 @@ const Cards = () => {
                     <div className="card text-center" width={18}>
                         <img src={Banner2} className="card-img-top" alt="Bacon CHeddar McMelt" />
                         <div className="card-body m-5 py-2 px-0">
-                            <h5 className="card-title py-2 fs-2">¡Nueva Bacon Cheddar McMelt!</h5>
-                            <p className="card-text py-2 fs-6">Llegó a McDonald's la nueva Bacon Cheddar McMelt, con mucho, muchísimo cheddar, che . Vení a probarla. Chequeadísimo que te va a encantar.</p>
-                            <a href="#" className="btn btn-warning">Chequeala acá</a>
+                            <h5 className="card-title py-2 fs-2 fw-bold">¡Nueva Bacon Cheddar McMelt!</h5>
+                            <p className="card-text py-2 fs-6 fw-light">Llegó a McDonald's la nueva Bacon Cheddar McMelt, con mucho, muchísimo cheddar, che . Vení a probarla. Chequeadísimo que te va a encantar.</p>
+                            <a href="#" className="btn btn-warning fw-light">Chequeala acá</a>
                         </div>
                     </div>
                 </div>
@@ -37,8 +37,8 @@ const Cards = () => {
                     <div className="card text-center" width={18}>
                         <img src={Banner3} className="card-img-top" alt="Grand Tasty Spicy" />
                         <div className="card-body m-5 py-2 px-0">
-                            <h5 className="card-title py-2 fs-2">¡Nueva Grand Tasty Spicy!</h5>
-                            <p className="card-text py-2 fs-6">#SePicó todo en McDonald’s. La nueva Grand Tasty Spicy tiene una salsita con el picante justo que seguro te va a encantar. Ya podés probarla en todos los locales.</p>
+                            <h5 className="card-title py-2 fs-2 fw-bold">¡Nueva Grand Tasty Spicy!</h5>
+                            <p className="card-text py-2 fs-6 fw-light">#SePicó todo en McDonald’s. La nueva Grand Tasty Spicy tiene una salsita con el picante justo que seguro te va a encantar. Ya podés probarla en todos los locales.</p>
                         </div>
                     </div>
                 </div>
@@ -46,9 +46,9 @@ const Cards = () => {
                     <div className="card text-center" width={18}>
                         <img src={Banner4} className="card-img-top" alt="McFlurry Chocotorta" />
                         <div className="card-body m-5 py-2 px-0">
-                            <h5 className="card-title py-2 fs-2">¡Nuevo McFlurry Chocotorta!</h5>
-                            <p className="card-text py-2 fs-6">Llegó a McDonald's el nuevo McFlurry Chocotorta, con un sabor argentino único. Afuera no lo entenderían.</p>
-                            <a href="#" className="btn btn-warning">Chequealo acá</a>
+                            <h5 className="card-title py-2 fs-2 fw-bold">¡Nuevo McFlurry Chocotorta!</h5>
+                            <p className="card-text py-2 fs-6 fw-light">Llegó a McDonald's el nuevo McFlurry Chocotorta, con un sabor argentino único. Afuera no lo entenderían.</p>
+                            <a href="#" className="btn btn-warning fw-light">Chequealo acá</a>
                         </div>
                     </div>
                 </div>
@@ -58,8 +58,8 @@ const Cards = () => {
                     <div className="card text-center" width={18}>
                         <img src={Banner5} className="card-img-top" alt="McDonald's Land" />
                         <div className="card-body m-5 py-2 px-0">
-                            <h5 className="card-title py-2 fs-2">McDonald's llegó a Roblox</h5>
-                            <p className="card-text py-2 fs-6">¡Encontrá un nuevo mundo de diversión en McDonald’s Land!</p>
+                            <h5 className="card-title py-2 fs-2 fw-bold">McDonald's llegó a Roblox</h5>
+                            <p className="card-text py-2 fs-6 fw-light">¡Encontrá un nuevo mundo de diversión en McDonald’s Land!</p>
                         </div>
                     </div>
                 </div>
@@ -67,8 +67,8 @@ const Cards = () => {
                     <div className="card text-center" width={18}>
                         <img src={Banner6} className="card-img-top" alt="McCafe" />
                         <div className="card-body m-5 py-2 px-0">
-                            <h5 className="card-title py-2 fs-2">McCafé Directo al Grano</h5>
-                            <p className="card-text py-2 fs-6">Simple y rico. Dejá de dar vueltas y andá Directo al Grano conociendo más de McCafé.</p>
+                            <h5 className="card-title py-2 fs-2 fw-bold">McCafé Directo al Grano</h5>
+                            <p className="card-text py-2 fs-6 fw-light">Simple y rico. Dejá de dar vueltas y andá Directo al Grano conociendo más de McCafé.</p>
                         </div>
                     </div>
                 </div>

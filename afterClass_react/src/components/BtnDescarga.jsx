@@ -1,6 +1,6 @@
 const BtnDescarga = () => {
     return(
-        <a href="#" className="btn btn-outline-dark me-2">Descargá la app</a>
+        <a href="#" className="btn btn-light btn-lg me-2 fw-light fs-6 border-dark border-opacity-25 rounded">Descargá la app</a>
     )
 };
 

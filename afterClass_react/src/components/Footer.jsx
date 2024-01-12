@@ -1,8 +1,18 @@
-const Footer = () => {
-    return(
-        <div>
+import PreFooter from "./PreFooter";
 
-        </div>
+const Footer = () => {
+    return (
+        <>
+            <div className="bg-white py-5">
+                <PreFooter />
+                <div className="bg-white py-5">
+                    <p>REDES SOCIALES</p>
+                </div>
+            </div>
+            <div className="bg-white py-5">
+                <p> LOGO Y PAVADAS</p>
+            </div>
+        </>
     )
 };
 
